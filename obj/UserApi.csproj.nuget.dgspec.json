@@ -1,84 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\UserApi\\UserApi.csproj": {}
+    "G:\\CoreJSONSQL\\UserApi.csproj": {}
   },
   "projects": {
-    "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\Api.Library.csproj": {
+    "G:\\CoreJSONSQL\\UserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\Api.Library.csproj",
-        "projectName": "Api.Library",
-        "projectPath": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\Api.Library.csproj",
-        "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ProBook 450 HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp2.2"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "G:\\Mis paquetes Nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp2.2": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.0-preview3.19551.4, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\UserApi\\UserApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\UserApi\\UserApi.csproj",
+        "projectUniqueName": "G:\\CoreJSONSQL\\UserApi.csproj",
         "projectName": "UserApi",
-        "projectPath": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\UserApi\\UserApi.csproj",
+        "projectPath": "G:\\CoreJSONSQL\\UserApi.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\UserApi\\obj\\",
+        "outputPath": "G:\\CoreJSONSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,8 +31,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\Api.Library.csproj": {
-                "projectPath": "G:\\Laptop PJE\\Clases de Maestría\\Net Core\\Día 2\\Api.Library\\Api.Library.csproj"
+              "G:\\Api.Library\\Api.Library.csproj": {
+                "projectPath": "G:\\Api.Library\\Api.Library.csproj"
               }
             }
           }
