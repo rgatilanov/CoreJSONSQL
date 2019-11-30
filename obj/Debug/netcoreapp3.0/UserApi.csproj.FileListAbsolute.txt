@@ -1,0 +1,4 @@
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Debug\netcoreapp3.0\UserApi.csprojAssemblyReference.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Debug\netcoreapp3.0\UserApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Debug\netcoreapp3.0\UserApi.AssemblyInfoInputs.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Debug\netcoreapp3.0\UserApi.AssemblyInfo.cs

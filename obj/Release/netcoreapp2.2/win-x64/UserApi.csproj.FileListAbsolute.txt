@@ -1,0 +1,15 @@
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.exe
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.deps.json
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.runtimeconfig.json
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.runtimeconfig.dev.json
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.dll
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\bin\Release\netcoreapp2.2\win-x64\UserApi.pdb
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.csprojAssemblyReference.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.csproj.CoreCompileInputs.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.RazorAssemblyInfo.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.RazorAssemblyInfo.cs
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.AssemblyInfoInputs.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.AssemblyInfo.cs
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.RazorTargetAssemblyInfo.cache
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.dll
+G:\Laptop PJE\Clases de Maestría\Net Core\Día 2\UserApi\obj\Release\netcoreapp2.2\win-x64\UserApi.pdb
